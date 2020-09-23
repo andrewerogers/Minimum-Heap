@@ -1,0 +1,14 @@
+C:\Technical Interview\Heap\Heap\Heap\bin\Debug\Heap.exe.config
+C:\Technical Interview\Heap\Heap\Heap\bin\Debug\Heap.exe
+C:\Technical Interview\Heap\Heap\Heap\bin\Debug\Heap.pdb
+C:\Technical Interview\Heap\Heap\Heap\obj\Debug\Heap.csprojAssemblyReference.cache
+C:\Technical Interview\Heap\Heap\Heap\obj\Debug\Heap.csproj.CoreCompileInputs.cache
+C:\Technical Interview\Heap\Heap\Heap\obj\Debug\Heap.exe
+C:\Technical Interview\Heap\Heap\Heap\obj\Debug\Heap.pdb
+C:\Data Structures C#\Heap\Heap\Heap\bin\Debug\Heap.exe.config
+C:\Data Structures C#\Heap\Heap\Heap\bin\Debug\Heap.exe
+C:\Data Structures C#\Heap\Heap\Heap\bin\Debug\Heap.pdb
+C:\Data Structures C#\Heap\Heap\Heap\obj\Debug\Heap.csprojAssemblyReference.cache
+C:\Data Structures C#\Heap\Heap\Heap\obj\Debug\Heap.csproj.CoreCompileInputs.cache
+C:\Data Structures C#\Heap\Heap\Heap\obj\Debug\Heap.exe
+C:\Data Structures C#\Heap\Heap\Heap\obj\Debug\Heap.pdb
